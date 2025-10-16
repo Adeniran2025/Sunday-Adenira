@@ -1,0 +1,32 @@
+body{
+    background-image: url(basket\ ball.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    background-color: yellow;
+    color: black;
+    
+}
+
+h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.container{
+    display: flex;
+    float: inherit;
+}
+
+li{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    float: inherit;
+    justify-content: right;
+}
